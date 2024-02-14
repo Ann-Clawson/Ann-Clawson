@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Screenshot 2024-02-13 at 4 22 08 PM](https://github.com/Ann-Clawson/Ann-Clawson/assets/112268033/6f574ce8-a9df-4aef-932b-d9100f84e898)
 
 <!--
 **Ann-Clawson/Ann-Clawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
