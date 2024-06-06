@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ann.</h1>
 <h3 align="center">A passionate full-stack developer from Long Beach, CA,</h3>
 
-- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app for a fictitious microlender that facilitates loan applications and comprehensive account management.
+- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app that facilitates loan applications and comprehensive account management for a fictitious microlender.
 
 - 🌱 I’m currently learning TypeScript and Vietnamese cooking.
 
