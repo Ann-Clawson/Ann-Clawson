@@ -11,7 +11,7 @@
 
 <h4 align="left">Let's connect!</h4>
 <p align="left">
-<a href="https://linkedin.com/in/ann-clawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ann-clawson" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/ann-clawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ann-clawson" height="25" width="35" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
