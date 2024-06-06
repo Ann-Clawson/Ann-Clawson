@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **annmasonclawson@gmail.com**
 
-- ⚡ When I'm not pounding the keys, I like to read, practice yoga, and sew.
+- ⚡ When I'm not pounding the keys I like to read, practice yoga, and sew.
 
 <h4 align="left">Let's connect!</h4>
 <p align="left">
