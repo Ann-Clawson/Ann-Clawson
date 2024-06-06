@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ann.</h1>
 <h3 align="center">A passionate full-stack developer from Long Beach, CA,</h3>
 
-- 🔭 I’m currently working on **"inky", a dynamic multi-page web app for a fictitious microlender that facilitates loan applications and comprehensive account management.**
+- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app for a fictitious microlender that facilitates loan applications and comprehensive account management.
 
-- 🌱 I’m currently learning **TypeScript and Vietnamese cooking.**
+- 🌱 I’m currently learning TypeScript and Vietnamese cooking.
 
 - 📫 How to reach me **annmasonclawson@gmail.com**
 
-- ⚡ When I'm not pounding the keys **I like to read, practice yoga, sew, and brewery hop ⚡**
+- ⚡ When I'm not pounding the keys, I like to read, practice yoga, and sew.
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Let's connect!</h5>
 <p align="left">
 <a href="https://linkedin.com/in/ann-clawson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ann-clawson" height="30" width="40" /></a>
 </p>
