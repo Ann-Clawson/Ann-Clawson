@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ann.</h1>
 <h3 align="center">A passionate full-stack developer from Long Beach, CA 🖤</h3>
 
-- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app that facilitates loan applications and comprehensive user account management for a fictitious microlender. I have also recently started developing the backend for **"Crumbs"**, a robust Girl Scout cookies sales management app.
+- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app that facilitates loan applications and comprehensive user account management for a fictitious microlender. I have also recently started developing the backend for **"Crumbs"**, a robust Girl Scout cookie sales management app.
 
 - 🌱 I’m currently learning TypeScript and Vietnamese cooking.
 
