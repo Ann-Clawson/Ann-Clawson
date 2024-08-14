@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app that facilitates loan applications and comprehensive user account management for a fictitious microlender.
   
-- 🌱 I’m currently learning TypeScript and Vietnamese cooking.
+- 🌱 I’m currently learning Python and Vietnamese cooking.
 
 - 📫 How to reach me **annmasonclawson@gmail.com**
 
