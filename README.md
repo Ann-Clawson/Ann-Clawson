@@ -12,6 +12,9 @@
 <br/>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,css&theme=dark&perline=15" alt="My Skills" /></a>
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![CSS](https://skillicons.dev/icons?i=css)
+
 
 <br/>
 
