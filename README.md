@@ -16,8 +16,7 @@
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
-![Githubactions](https://skillicons.dev/icons?i=githubactions&theme=dark&perline=15)
-[![My Skills](https://skillicons.dev/icons?i=githubactions&theme=dark&perline=15)](https://skillicons.dev)
+![HTML](https://skillicons.dev/icons?i=html)
 
 
 
