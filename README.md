@@ -12,7 +12,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,css)](https://skillicons.dev)
+[[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,css)](https://skillicons.dev)](https://skillicons.dev/icons?i=bootstrap,css&theme=dark&perline=15)
 
 <br/>
 
