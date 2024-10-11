@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ann.</h1>
 <h3 align="center">A passionate full-stack developer from Long Beach, CA 🖤</h3>
 
-- 🔭 I’m currently working on **"inky"**, a dynamic multi-page web app that facilitates loan applications and comprehensive user account management for a fictitious microlender.
+- 🔭 I’m currently working on **"Crumbs"**, a dynamic Girl Scouts&copy cookie sales management app.
   
 - 🌱 I’m currently learning Python and Vietnamese cooking.
 
@@ -32,6 +32,7 @@
 <br/>
 
 ![Screenshot 2024-10-11 at 2 23 45 PM](https://github.com/user-attachments/assets/f475b72d-f9c7-4144-a619-5a3efd53aa51)
+<br/>
 
 ![inky Screenshot ](https://github.com/Ann-Clawson/Ann-Clawson/assets/112268033/770534fe-9300-48e4-8930-6fa70fa77b3e)
 
