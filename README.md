@@ -16,7 +16,8 @@
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
-![GithubActions](https://skillicons.dev/icons?i=githubactions)
+![Githubactions](https://skillicons.dev/icons?i=githubactions)
+
 
 
 <br/>
