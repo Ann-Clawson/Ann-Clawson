@@ -25,7 +25,7 @@
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Python](https://skillicons.dev/icons?i=python)
-![Rails](https://skillicons.dev/icons?i=rails)
+![Rails](https://skillicons.dev/icons?i=rubyonrails)
 ![React](https://skillicons.dev/icons?i=react)
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
