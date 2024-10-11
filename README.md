@@ -28,7 +28,7 @@
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![React](https://skillicons.dev/icons?i=react)
 ![Ruby](https://skillicons.dev/icons?i=ruby)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
