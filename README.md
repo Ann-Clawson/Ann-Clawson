@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ann.</h1>
 <h3 align="center">A passionate full-stack developer from Long Beach, CA 🖤</h3>
 
-- 🔭 I’m currently working on **"Crumbs"**, a dynamic Girl Scouts&copy; cookie sales management app.
+- 🔭 I’m currently working on **"Crumbs"**, a comprehensive and dynamic Girl Scouts&copy; cookie sales management app.
   
 - 🌱 I’m currently learning Python and Vietnamese cooking.
 
