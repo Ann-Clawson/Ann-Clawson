@@ -17,6 +17,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Github](https://skillicons.dev/icons?i=github)
 ![HTML](https://skillicons.dev/icons?i=html)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Markdown](https://skillicons.dev/icons?i=markdown)
 
 
 
