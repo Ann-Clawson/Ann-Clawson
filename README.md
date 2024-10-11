@@ -12,7 +12,7 @@
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,docker,flask,git,github,githubactions,html,js,md,materialui,nodejs,npm,ps,postgres,postman,py,rails,react,ruby,tailwind,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,docker)](https://skillicons.dev)
 
 <br/>
 
