@@ -10,11 +10,8 @@
 - 🤸‍♂️ When I'm not pounding the keys I like to read, practice yoga, sew, and dangle things in front of my 🐈 🐈.
 
 
-<br/>
-
 [[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,css)](https://skillicons.dev)](https://skillicons.dev/icons?i=bootstrap,css&theme=dark&perline=15)
 
-<br/>
 
 ![inky Screenshot ](https://github.com/Ann-Clawson/Ann-Clawson/assets/112268033/770534fe-9300-48e4-8930-6fa70fa77b3e)
 
