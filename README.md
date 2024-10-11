@@ -14,6 +14,9 @@
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Flask](https://skillicons.dev/icons?i=flask)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![GithubActions](https://skillicons.dev/icons?i=githubactions)
 
 
 <br/>
