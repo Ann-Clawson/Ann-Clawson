@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **"Crumbs"**, a comprehensive and dynamic Girl Scouts&copy; cookie sales management app.
   
-- 🌱 I’m currently learning Python and Vietnamese cooking.
+- 🌱 I’m currently learning TypeScript and Vietnamese cooking.
 
 - 📫 How to reach me **annmasonclawson@gmail.com**
 
